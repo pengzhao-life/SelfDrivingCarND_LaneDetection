@@ -1,5 +1,6 @@
 **Finding Lane Lines on the Road** 
 
+
 [//]: # (Image References)
 
 [image1]: ./report_images/original.jpg "Original"
@@ -7,7 +8,7 @@
 [image3]: ./report_images/smoothed.jpg "Smoothed"
 [image4]: ./report_images/cannyEdge.jpg "CannyEdge"
 [image5]: ./report_images/lines.jpg "Lines"
----
+
 
 ### 1. Pipeline description. As part of the description, and how the draw_lines() function was modified.
 
